@@ -1,4 +1,6 @@
-<h1 align="center">🌟 Hey, I'm <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7A41D&center=true&vCenter=true&width=300&lines=Radheshyam+Rathod" alt="Typing SVG" /></h1>
+<h1 align="center">
+  🌟 Hey, I'm <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7A41D&center=true&vCenter=true&width=350&lines=Radheshyam+Rathod;Frontend+Developer;UI/UX+Enthusiast;React+%7C+Angular+%7C+JavaScript" alt="Typing SVG" />
+</h1>
 <h3 align="center">🚀 Frontend & UI/UX Developer | ReactJS | Angular </h3>
 
 <p align="center">
