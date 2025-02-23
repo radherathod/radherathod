@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Radheshyam Rathod</h1>
-<h3 align="center">🚀 Passionate Frontend & UI/UX Developer | React | Angular | Interactive Dashboards 🚀</h3>
+<h3 align="center">🚀 Passionate Frontend & UI/UX Developer | React | Angular </h3>
 
 <p align="center">
   <img src="https://media.tenor.com/YZPnGuPeZv8AAAAC/coding.gif" alt="coding" width="400"/>
@@ -85,13 +85,8 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=radherathod&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=radherathod&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=radherathod&show_icons=true&locale=en" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=radherathod&" alt="GitHub Streak" height="150"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=radherathod&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=radherathod&" alt="GitHub Streak" />
-</p>
