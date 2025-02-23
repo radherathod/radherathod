@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm Radheshyam Rathod</h1>
+<h1 align="center">✨ Hey there, I'm <span style="color:#ffcc00;">Radheshyam Rathod</span> 👋</h1>
 <h3 align="center">🚀 Frontend & UI/UX Developer | ReactJS | Angular </h3>
 
 <p align="center">
