@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there, I'm Radheshyam Rathod</h1>
-<h3 align="center">🚀 Frontend & UI/UX Developer | React | Angular | Data Visualizations</h3>
+<h3 align="center">🚀 Frontend & UI/UX Developer | ReactJS | Angular </h3>
 
 <p align="center">
   <img src="https://media.tenor.com/YZPnGuPeZv8AAAAC/coding.gif" alt="coding" width="400"/>
